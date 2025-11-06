@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient( #DEB887 30%, #BC8F8F 70%); font-family:'Dancing Script';
+}
+.status{font-size:40px; color: #696969; font-weight:900; }
+.game-info button{background: #696969; color: #DEB887; box-shadow: 0 0 8px black;}
+.square{background: #696969; box-shadow: 0 0 8px black;}
+.game-info ol{color: #696969; font-weight:900;}
